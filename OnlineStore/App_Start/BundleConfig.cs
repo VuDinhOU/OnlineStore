@@ -23,7 +23,7 @@ namespace OnlineStore
                       "~/Scripts/bootstrap.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
+                      "~/Content/bootstrap-modern-business",
                       "~/Content/site.css"));
         }
     }
